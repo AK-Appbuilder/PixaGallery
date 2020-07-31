@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.Pixa" parent="Base.Theme.Pixa">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+</resources>

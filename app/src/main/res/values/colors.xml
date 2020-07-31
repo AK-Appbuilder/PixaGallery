@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="pixa_black">#de000000</color>
+    <color name="pixa_gray">#fafafa</color>
+    <color name="pixa_maroon">#cd3242</color>
+    <color name="pixa_maroon_dark">#550604</color>
+    <color name="pixa_maroon_900">#1a231e</color>
+    <color name="pixa_white">#deffffff</color>
+</resources>

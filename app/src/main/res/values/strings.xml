@@ -1,0 +1,9 @@
+
+
+<resources>
+
+    <string name="app_name" translatable="false">PixaGallery</string>
+    <string name="likes"> Likes %s</string>
+    <string name="menu_share_image">Share Image </string>
+
+</resources>

@@ -1,0 +1,24 @@
+<resources>
+    <style name="Base.Theme.Pixa" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/pixa_maroon</item>
+        <item name="colorPrimaryDark">@color/pixa_maroon_dark</item>
+        <item name="colorOnSurface">@color/pixa_black</item>
+        <item name="colorAccent">@color/pixa_maroon_dark</item>
+        <item name="colorSurface">@color/pixa_gray</item>
+        <item name="android:colorBackground">@color/pixa_maroon</item>
+    </style>
+
+    <style name="Theme.Pixa" parent="Base.Theme.Pixa"/>
+
+    <style name="Theme.Pixa.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Pixa.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar"/>
+
+    <style name="TextAppearance.Pixa.Toolbar.Text" parent="TextAppearance.MaterialComponents.Headline5" >
+        <item name="android:textColor">?attr/colorOnSurface</item>
+    </style>
+
+</resources>
